@@ -90,6 +90,13 @@ body {
 	}
 }
 
-#mailto{
+.subtitle{
 	color: #ffffff;
+	margin-right: 1em;
+}
+
+#subtitle{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
